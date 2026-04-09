@@ -1,5 +1,5 @@
 /* CONFIG */
-const SHOPEE_LINK = 'https://s.shopee.com.br/1BIGMs5j64';
+const SHOPEE_LINK = 'https://s.shopee.com.br/7ppAMUAiZA';
 
 /* PRELOADER */
 window.addEventListener('load', () => {
